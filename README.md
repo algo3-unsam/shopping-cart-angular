@@ -1,3 +1,3 @@
 # Shopping Cart - Angular
 
-Proyecto base para parcial "Shopping Cart".
+Proyecto base para parcial "Carrito de Compras".
